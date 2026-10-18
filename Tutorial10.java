@@ -2,7 +2,7 @@ package Java.practise;
 
 public class Tutorial10 {
     public static void main(String[] args){
-        //switch = statement that allows a variable to be tested for equality against a list of values
+        //switch = statement that allows a variable to be tested for equality against a list of values.
 
         String day = "rice";
 
