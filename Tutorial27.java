@@ -6,6 +6,7 @@ public class Tutorial27 {
         Human human2 = new Human("Errick",13,30);
 
         //System.out.println(human2.name);
+        //System.out.println(human1.name);
         human2.eat();
         human1.drink();
 
