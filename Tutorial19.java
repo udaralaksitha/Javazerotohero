@@ -7,6 +7,7 @@ public class Tutorial19 {
         //Arraylist = a resizable array ,
         //            Elements can be added and removed after compilation phase
         //            Store reference data types
+        //            There's 8 data types in java
 
         ArrayList<String>food = new ArrayList<String>();
 
