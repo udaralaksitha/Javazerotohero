@@ -4,6 +4,7 @@ public class Tutorial18 {
     public static void main(String[] args){
          //wrapper class = provides a way to use primitive data types as reference data types
           //               reference data types contains useful methods
+           //              java have 8 data types.
            //              can be used with collections(ex:Arraylist)
 
             //primitive          Wrapper
