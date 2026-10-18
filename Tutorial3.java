@@ -3,7 +3,7 @@ package Java.practise;
 public class Tutorial3 {
     public static void main(String[] args) {
 
-        String x = "water";
+        String x = "cool-water";
         String y = "kool-Aid";
         String temp;
 
