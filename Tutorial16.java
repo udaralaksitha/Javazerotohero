@@ -2,7 +2,7 @@ package Java.practise;
 
 public class Tutorial16 {
     public static void main(String[] args) {
-        //2D array = an array of arrays
+        //2D array = an array of arrays.
 
         String[][] cars = new String[3][3];
 
