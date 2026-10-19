@@ -7,7 +7,6 @@ public class Tutorial22 {
        // String name = "udz";
        // int age =21;
 
-        //hello(name,age);
 
         int x = 3;
         int y = 4;
