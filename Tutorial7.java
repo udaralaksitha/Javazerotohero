@@ -3,7 +3,7 @@ package Java.practise;
 import java.util.Scanner;
 
 public class Tutorial7 {
-    public static void main(String[] args){
+    public static void main(String args[]){
 
         double x = 3.78;
         double y = -9;
