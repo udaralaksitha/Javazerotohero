@@ -11,7 +11,7 @@ public class Tutorial23 {
     }
 
     static int add(int a, int b) {
-        System.out.println("This is overloaded method #1");
+        System.out.print("This is overloaded method #1");
         return a + b;
     }
 
