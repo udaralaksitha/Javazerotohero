@@ -24,7 +24,7 @@ public class Tutorial26 {
 
 
 class car {
-    String make = "Chevrolet";
+    int make = "Chevrolet";
     String model = "Corvette";
     int year = 2020;
     String color = "yellow";
