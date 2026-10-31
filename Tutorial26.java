@@ -12,7 +12,7 @@ public class Tutorial26 {
 
         System.out.println();
 
-        System.out.println(myCar2.make);
+        System.out.print(myCar2.make);
         System.out.println(myCar2.model);
         System.out.println(myCar2.year);
 
