@@ -12,7 +12,7 @@ public class Tutorial3 {
 
 
         System.out.println("x;"+x);
-        System.out.println("y;"+y);
+        System.out.printf("y;"+y);
 
     }
 }
