@@ -11,7 +11,7 @@ public class Tutorial3 {
         x=y;
 
 
-        System.out.printf("x;"+x);
+        System.out.println("x;"+x);
         System.out.println("y;"+y);
 
     }
